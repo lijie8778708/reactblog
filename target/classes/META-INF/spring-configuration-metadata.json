@@ -1,0 +1,28 @@
+{
+  "groups": [
+    {
+      "name": "jie.jwt",
+      "type": "com.jie.util.JwtUtils",
+      "sourceType": "com.jie.util.JwtUtils"
+    }
+  ],
+  "properties": [
+    {
+      "name": "jie.jwt.expire",
+      "type": "java.lang.Long",
+      "sourceType": "com.jie.util.JwtUtils",
+      "defaultValue": 0
+    },
+    {
+      "name": "jie.jwt.header",
+      "type": "java.lang.String",
+      "sourceType": "com.jie.util.JwtUtils"
+    },
+    {
+      "name": "jie.jwt.secret",
+      "type": "java.lang.String",
+      "sourceType": "com.jie.util.JwtUtils"
+    }
+  ],
+  "hints": []
+}
