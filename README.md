@@ -22,7 +22,19 @@
 ### Example
 
 <p align="center">
-	<a><img src="/client/src/img/code1.jpg"></a>
+	<a><img src="/client/src/img/login.png"></a>
+</p>
+<p align="center">
+	<a><img src="/client/src/img/blog.png"></a>
+</p>
+<p align="center">
+	<a><img src="/client/src/img/present.png"></a>
+</p>
+<p align="center">
+	<a><img src="/client/src/img/post.png"></a>
+</p>
+<p align="center">
+	<a><img src="/client/src/img/edit.png"></a>
 </p>
 
 
