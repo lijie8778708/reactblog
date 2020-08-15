@@ -43,8 +43,8 @@
 
 ### Function
 * [x] Login
-* [x] Artocle present
+* [x] Article present
 * [x] Add Article
 * [x] Remove Article
 * [x] Edit Article
-* [x] Ui Design
+* [x] UI Design
