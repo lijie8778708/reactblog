@@ -31,6 +31,9 @@
 	<a><img src="/client/src/img/present.png"></a>
 </p>
 <p align="center">
+	<a><img src="/client/src/img/dash.png"></a>
+</p>
+<p align="center">
 	<a><img src="/client/src/img/post.png"></a>
 </p>
 <p align="center">
